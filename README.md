@@ -1,0 +1,2 @@
+# gogogo
+all go applications
